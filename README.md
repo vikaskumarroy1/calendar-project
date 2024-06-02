@@ -1,3 +1,2 @@
 # calendar
-Material UI calendar with ReactJs
-# intro-project
+HOSTED-LINK - https://intro-project-alpha.vercel.app/
